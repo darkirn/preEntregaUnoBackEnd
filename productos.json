@@ -1,0 +1,58 @@
+[
+  {
+    "id": "4y6os3pmo",
+    "title": "remera negra",
+    "description": "remera negra XL",
+    "code": "P044",
+    "price": 12000,
+    "status": true,
+    "stock": 15,
+    "category": "ropa",
+    "thumbnails": [
+      "imagen1.jpg",
+      "imagen2.jpg"
+    ]
+  },
+  {
+    "id": "5vamexl5e",
+    "title": "pantalon",
+    "description": "pantalon negro XL",
+    "code": "P045",
+    "price": 18000,
+    "status": true,
+    "stock": 10,
+    "category": "ropa",
+    "thumbnails": [
+      "imagen1.jpg",
+      "imagen2.jpg"
+    ]
+  },
+  {
+    "id": "z6h1fdwqp",
+    "title": "camisa",
+    "description": "camisa oversize",
+    "code": "P046",
+    "price": 30000,
+    "status": true,
+    "stock": 30,
+    "category": "ropa",
+    "thumbnails": [
+      "imagen1.jpg",
+      "imagen2.jpg"
+    ]
+  },
+  {
+    "id": "6z5c18wdk",
+    "title": "zapatillas",
+    "description": "zapatilas negras",
+    "code": "P046",
+    "price": 35000,
+    "status": true,
+    "stock": 25,
+    "category": "ropa",
+    "thumbnails": [
+      "imagen1.jpg",
+      "imagen2.jpg"
+    ]
+  }
+]

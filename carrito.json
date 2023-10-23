@@ -1,0 +1,19 @@
+[
+  {
+    "id": "8g6xsuubz",
+    "products": [
+      {
+        "product": "P001",
+        "quantity": 2
+      },
+      {
+        "product": "P002",
+        "quantity": 1
+      },
+      {
+        "product": "P003",
+        "quantity": 3
+      }
+    ]
+  }
+]
